@@ -1,1 +1,1 @@
-# ghcr2
+# ghcr2 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
